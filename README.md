@@ -10,5 +10,5 @@
 
 - 📍  I'm from Brazil
 
-![LinkedIn Guilherme Batista](https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png "").
+[![LinkedIn Guilherme Batista](https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png)](linkedin.com/in/guilherme-fernandes-coelho
 
