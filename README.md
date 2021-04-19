@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme 👋
+## Hi there, I'm Guilherme 👋
 
 - 💻 I'm an IT Tech, by CEFET-MG
 
