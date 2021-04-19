@@ -10,4 +10,4 @@
 
 - 📍  I'm from Brazil
 
-<img src="https://www.linkedin.com/in/guilherme-fernandes-coelho/">
+<a href="https://www.linkedin.com/in/guilherme-fernandes-coelho/" rel="">!(https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png)</a>
