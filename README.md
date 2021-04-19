@@ -10,6 +10,6 @@
 
 - 📍  I'm from Brazil
 
-<a target="_blank" href="https://linkedin.com/in/guilherme-fernandes-coelho">
+<a href="https://linkedin.com/in/guilherme-fernandes-coelho" target="_blank">
   <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png" alt="LinkedIn Link" height="50" />
 </a>
