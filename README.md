@@ -10,3 +10,5 @@
 
 - 📍  I'm from Brazil
 
+![LinkedIn Guilherme Batista](https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png "").
+
