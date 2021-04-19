@@ -13,6 +13,5 @@
 [![LinkedIn Guilherme Batista](https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png)](https://linkedin.com/in/guilherme-fernandes-coelho)
 
 <a href="https://linkedin.com/in/guilherme-fernandes-coelho">
-  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png" alt="LinkedIn Link"
-	 width="150" height="100" />
+  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png" alt="LinkedIn Link" height="50" />
 </a>
