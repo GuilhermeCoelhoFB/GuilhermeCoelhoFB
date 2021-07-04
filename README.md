@@ -2,7 +2,7 @@
 
 - 💻 I'm an IT Tech, by CEFET-MG
 
-- 🚀 I’m looking for opportunities for starting work in tech area, and contributing to the company, and team success
+- 🚀 Developer Intern - Teknisa Software
 
 - 🌱 I’m currently learning ReactJS, JS and Node
 
