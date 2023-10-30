@@ -2,9 +2,9 @@
 
 - 💻 I'm an IT Tech by CEFET-MG, graduating in Information Systems at PUC Minas!
 
-- 🚀 Developer at Monnos 
+- 🚀 Developer at Cielo 
 
-- 🌱 I’m currently learning/working with Java SpringBoot
+- 🌱 I’m currently working with Java SpringBoot
 
 - 📍 I'm from Brazil
 
